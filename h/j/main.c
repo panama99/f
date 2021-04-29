@@ -7,7 +7,7 @@ printf("Result: %d\n", res);
 
 int main()
 {
-int a = 8;
+int a = 9;
 int b = 3;
 int c;
 if(a > b)
